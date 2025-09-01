@@ -1,6 +1,6 @@
 `MIT Licensed bitcoin font (see LICENSE.txt).`
 
-![](https://design-rrr.github.io/OCR-Bitcoin/media/07.png)
+![](https://design-rrr.github.io/OCR-Bitcoin/media/06.png)
 
 Live preview: [https://design-rrr.github.io/OCR-Bitcoin](https://design-rrr.github.io/OCR-Bitcoin)
 
