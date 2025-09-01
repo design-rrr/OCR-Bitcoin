@@ -1,6 +1,8 @@
-This font is licensed under the MIT License. See LICENSE.txt for details.
+MIT Licensed bitcoin font (see LICENSE.txt).
 
-Warning: this font is not intended for Optical Character Recognition use.
+Preview: [https://design-rrr.github.io/OCR-Bitcoin](https://design-rrr.github.io/OCR-Bitcoin)
+
+This font is not intended for Optical Character Recognition use.
 
 # Lineage
 
